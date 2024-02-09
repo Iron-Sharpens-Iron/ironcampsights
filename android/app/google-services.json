@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "365399735205",
+    "firebase_url": "https://rpl-app-camp-iron-sights-default-rtdb.firebaseio.com",
+    "project_id": "rpl-app-camp-iron-sights",
+    "storage_bucket": "rpl-app-camp-iron-sights.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365399735205:android:ff27915a7aab1e722c064c",
+        "android_client_info": {
+          "package_name": "com.champ.ironsights"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365399735205-f9ch9b94iuuha069c61v8mhi46t25uln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtTs-Z4NiYPgcHd90R7vEqO5Vs3sqOTiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365399735205-f9ch9b94iuuha069c61v8mhi46t25uln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
